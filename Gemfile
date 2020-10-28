@@ -35,6 +35,8 @@ end
 
 gem 'bulma-rails', '~> 0.9.0'
 gem 'simple_form', '~> 5.0', '>= 5.0.3'
+gem 'gravatar_image_tag', '~> 1.2'
+gem 'devise', '~> 4.7', '>= 4.7.3'
 
 group :development do
   # Access an interactive console on exception pages or by calling 'console' anywhere in the code.
